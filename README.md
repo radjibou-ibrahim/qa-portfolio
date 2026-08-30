@@ -48,6 +48,20 @@ My main focus is manual testing of web applications and APIs.
 | 09-Screenshots | Testing evidence |
 | 10-Test-Summary | Final test reports |
 
+## My QA Projects
+
+### 🛒 E-commerce Testing
+Manual testing project
+→ qa-ecommerce-testing (link)
+
+### 🏦 Banking Application Testing
+Manual testing project
+→ qa-banking-testing (link)
+
+### 📱 Mobile Application Testing
+Mobile testing project
+→ qa-mobile-app-testing (link)
+
 ## 🎯 Objective
 
 The goal of this portfolio is to demonstrate my practical understanding of software testing and my ability to apply QA techniques to real-world testing scenarios.
