@@ -58,16 +58,12 @@ Manual testing project
 Manual testing project
 → qa-banking-testing (link)
 
-### 📱 Mobile Application Testing
-Mobile testing project
-→ qa-mobile-app-testing (link)
-
 ## 🎯 Objective
 
 The goal of this portfolio is to demonstrate my practical understanding of software testing and my ability to apply QA techniques to real-world testing scenarios.
 
 ## 📫 Contact
 
-LinkedIn: www.linkedin.com/in/radjibou-ibrahim-53ab0b174
+LinkedIn: linkedin.com/in/radjibou-ibrahim
 
 Email: ibrahimradjibou@gmail.com
