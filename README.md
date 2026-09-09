@@ -52,11 +52,14 @@ My main focus is manual testing of web applications and APIs.
 
 ### 🛒 E-commerce Testing
 Manual testing project
-→ qa-ecommerce-testing (link)
+
+👉 [View E-commerce Testing Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing/tree/main)
 
 ### 🏦 Banking Application Testing
 Manual testing project
-→ qa-banking-testing (link)
+
+👉 [View Banking Application Testing](https://github.com/radjibou-ibrahim/qa-banking-testing.git)
+
 
 ## 🎯 Objective
 
