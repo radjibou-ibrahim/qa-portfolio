@@ -50,15 +50,24 @@ My main focus is manual testing of web applications and APIs.
 
 ## My QA Projects
 
-### 🛒 E-commerce Testing
+###  E-commerce Testing
 Manual testing project
 
 👉 [View E-commerce Testing Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing/tree/main)
 
-### 🏦 Banking Application Testing
+---
+
+###  Banking Application Testing
 Manual testing project
 
 👉 [View Banking Application Testing](https://github.com/radjibou-ibrahim/qa-banking-testing.git)
+
+---
+
+### API Testing with Postman – User Management System
+This project demonstrates REST API testing using Postman.
+
+👉 [View API Testing with Postman](https://github.com/radjibou-ibrahim/qa-api-testing-postman)
 
 
 ## 🎯 Objective
